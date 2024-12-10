@@ -26,9 +26,3 @@ I am a Full Stack Developer looking for my first opportunity
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo DB" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Boostrap" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
-
----
-### View some of my project 
-- Travel Mate [View](https://travelmate-chethan-chethans-projects-944d1010.vercel.app/)
-- Fit Bot [View](https://chethanv-20.github.io/FitBot/)
--  Check my Repo for more
